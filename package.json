@@ -1,0 +1,22 @@
+{
+  "name": "npm-bonus-package",
+  "version": "1.0.0",
+  "description": "This module will calculate the bonus earned by empployee",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhaprashant/npm-bonus-package.git"
+  },
+  "keywords": [
+    "bonus"
+  ],
+  "author": "pjha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhaprashant/npm-bonus-package/issues"
+  },
+  "homepage": "https://github.com/jhaprashant/npm-bonus-package#readme"
+}
