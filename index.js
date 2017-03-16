@@ -1,3 +1,3 @@
-module.exports = function(){
+exports.printMs = function(){
     console.log("test package");
 }
